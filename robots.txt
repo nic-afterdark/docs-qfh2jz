@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-gzr0ae.indocuan.online/sitemap.xml
